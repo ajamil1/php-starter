@@ -1,0 +1,7 @@
+[[build.env]]
+name = 'BP_PHP_WEB_DIR'
+value = 'htdocs'
+
+[[build.env]]
+name = 'PORT'
+value = '6826'
